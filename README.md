@@ -1,6 +1,6 @@
-👋 Hi, I'm Göran Backlund — physicist turned IT consultant focused on scientific computing and visualization.
+Turning complex ideas into clear insights – from theory to code..
 
-🚀 CSNumerics — https://csnumerics.com  
+ 𝚺 CsharpNumerics — https://csnumerics.com  
 🪐 ExoplanetHunter — https://exoplanethunter.com  
 
 C# • .NET • React • Three.js • Machine Learning • Python
