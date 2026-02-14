@@ -1,6 +1,6 @@
 Turning complex ideas into clear insights – from theory to code..
 
- CsharpNumerics — https://csnumerics.com  
+ CSharpNumerics — https://csnumerics.com  
  ExoplanetHunter — https://exoplanethunter.com  
 
 C# • .NET • React • Three.js • Machine Learning • Python
